@@ -13,7 +13,7 @@ public class Student {
 
     private Long studentMobileNo;
 
-    private String studentDob; //16/10/1990  16-10-1990
+    private String studentDob;
 
     private Float studentMarks;
 
